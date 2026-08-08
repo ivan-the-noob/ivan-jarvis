@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.11/Ivan.apk",
-  "notes": "Wake word back to 'Hi Ivan' (more accurate). Faster response — beep then listens instantly (no spoken 'Yes?'). Bye Ivan closes. Excuse only on 'tinatamad ako pumasok'."
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.14/Ivan.apk",
+  "notes": "Lenient wake: 'hi ...' triggers even if it mishears the name. Messenger now taps the right person and types in the chat (not search). Instant voice (no reload delay)."
 }
