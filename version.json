@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.6/Ivan.apk",
-  "notes": "Camera removed. Deep JARVIS voice, wake 'Hi Vane', 'Bye Vane' to close, 20s listen window, conversation memory, excuse-to-Messenger flow."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.7/Ivan.apk",
+  "notes": "Natural Tagalog voice for Tagalog replies (Filipino TTS). No camera. Deep voice, Hi/Bye Vane, 20s window, memory, excuse-to-Messenger."
 }
