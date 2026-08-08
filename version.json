@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.10/Ivan.apk",
-  "notes": "Fixed: excuse flow no longer triggers on every command (was biased by memory). Excuse only fires on 'tinatamad ako pumasok' type phrases. Shows what it hears, better wake matching, asks recipient."
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.11/Ivan.apk",
+  "notes": "Wake word back to 'Hi Ivan' (more accurate). Faster response — beep then listens instantly (no spoken 'Yes?'). Bye Ivan closes. Excuse only on 'tinatamad ako pumasok'."
 }
