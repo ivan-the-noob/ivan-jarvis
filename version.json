@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.2/Ivan.apk",
-  "notes": "Offline wake word + accurate commands, beep on wake, on-screen status line, On/Off/Reset buttons, camera and device-admin, one-tap updates."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.3/Ivan.apk",
+  "notes": "API key now entered in-app (no key inside the APK). Offline wake word, accurate commands, on-screen status, On/Off/Reset, one-tap updates."
 }
