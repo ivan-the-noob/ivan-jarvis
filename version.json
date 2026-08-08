@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.15/Ivan.apk",
-  "notes": "Fixed install loop (startup no longer spams the installer). Taglish recognition (fil-PH) + local excuse detection so 'tinatamad ako pumasok' reliably shows 3 choices. Messenger + fast voice + lenient wake."
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.16/Ivan.apk",
+  "notes": "Messenger clicks the top result. Reset now fully works. Name is 'Ivan' everywhere. Taglish + local excuse. No installer loop."
 }
