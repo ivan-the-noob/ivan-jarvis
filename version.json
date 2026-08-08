@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.3/Ivan.apk",
-  "notes": "API key now entered in-app (no key inside the APK). Offline wake word, accurate commands, on-screen status, On/Off/Reset, one-tap updates."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.5/Ivan.apk",
+  "notes": "Deep JARVIS voice, wake word 'Hi Vane', 'Bye Vane' to close, 20s listen window, conversation memory, and excuse-to-Messenger flow."
 }
