@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.17/Ivan.apk",
-  "notes": "Tap ON or RESET opens the mic and keeps listening (no Hi Ivan needed). Say 'turn off mic' to stop. Messenger clicks top result. Taglish + local excuse. No installer loop."
+  "versionCode": 19,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.18/Ivan.apk",
+  "notes": "MACROS: tap +MACRO, name it, record your taps, then say the name to replay. Continuous mic (tap ON to talk). Messenger top-result. Taglish + local excuse. No installer loop."
 }
