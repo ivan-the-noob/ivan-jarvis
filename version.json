@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.18/Ivan.apk",
-  "notes": "MACROS: tap +MACRO, name it, record your taps, then say the name to replay. Continuous mic (tap ON to talk). Messenger top-result. Taglish + local excuse. No installer loop."
+  "versionCode": 20,
+  "versionName": "1.19",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.19/Ivan.apk",
+  "notes": "Delete macros in the +MACRO screen. Say 'turn off' to close the assistant. Say 'play my music' to open Spotify and resume. Continuous mic, macros, Taglish, no installer loop."
 }
