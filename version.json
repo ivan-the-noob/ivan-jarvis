@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.9/Ivan.apk",
-  "notes": "Shows what it hears (gold 'heard:' line), better wake matching, free-form recognition. Excuse flow now asks who to message and clicks the exact person. Natural Tagalog voice, no camera."
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.10/Ivan.apk",
+  "notes": "Fixed: excuse flow no longer triggers on every command (was biased by memory). Excuse only fires on 'tinatamad ako pumasok' type phrases. Shows what it hears, better wake matching, asks recipient."
 }
