@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.14/Ivan.apk",
-  "notes": "Lenient wake: 'hi ...' triggers even if it mishears the name. Messenger now taps the right person and types in the chat (not search). Instant voice (no reload delay)."
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.15/Ivan.apk",
+  "notes": "Fixed install loop (startup no longer spams the installer). Taglish recognition (fil-PH) + local excuse detection so 'tinatamad ako pumasok' reliably shows 3 choices. Messenger + fast voice + lenient wake."
 }
