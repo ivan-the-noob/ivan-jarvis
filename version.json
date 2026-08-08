@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.5/Ivan.apk",
-  "notes": "Deep JARVIS voice, wake word 'Hi Vane', 'Bye Vane' to close, 20s listen window, conversation memory, and excuse-to-Messenger flow."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.6/Ivan.apk",
+  "notes": "Camera removed. Deep JARVIS voice, wake 'Hi Vane', 'Bye Vane' to close, 20s listen window, conversation memory, excuse-to-Messenger flow."
 }
