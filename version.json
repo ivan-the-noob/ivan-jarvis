@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.7/Ivan.apk",
-  "notes": "Natural Tagalog voice for Tagalog replies (Filipino TTS). No camera. Deep voice, Hi/Bye Vane, 20s window, memory, excuse-to-Messenger."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.9/Ivan.apk",
+  "notes": "Shows what it hears (gold 'heard:' line), better wake matching, free-form recognition. Excuse flow now asks who to message and clicks the exact person. Natural Tagalog voice, no camera."
 }
