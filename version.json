@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.16/Ivan.apk",
-  "notes": "Messenger clicks the top result. Reset now fully works. Name is 'Ivan' everywhere. Taglish + local excuse. No installer loop."
+  "versionCode": 18,
+  "versionName": "1.17",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.17/Ivan.apk",
+  "notes": "Tap ON or RESET opens the mic and keeps listening (no Hi Ivan needed). Say 'turn off mic' to stop. Messenger clicks top result. Taglish + local excuse. No installer loop."
 }
