@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.23",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.23/Ivan.apk",
-  "notes": "Stable continuous mic (no more beeping/flicker on ON — uses the offline engine). Red theme, pop-up message, Hi Ivan opens app, bluetooth toggle, macros."
+  "versionCode": 25,
+  "versionName": "1.24",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.24/Ivan.apk",
+  "notes": "Reverted: continuous mic uses the accurate engine again so it actually hears you. Red theme, pop-up message, bluetooth toggle, macros."
 }
