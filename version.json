@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.26",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.26/Ivan.apk",
-  "notes": "Noise cancellation: the always-on mic now runs through the phone voice DSP (noise suppressor + echo canceller + auto-gain) so Ivan hears mostly just your voice. Plus your-voice cloning from v1.25."
+  "versionCode": 28,
+  "versionName": "1.27",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.27/Ivan.apk",
+  "notes": "Answers show in a cool in-app HUD box (no browser) for questions and searches. Lightning crackling on the reactor. Answering voice ~2x louder. Plus voice cloning + noise cancellation."
 }
