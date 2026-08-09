@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.25/Ivan.apk",
-  "notes": "Speak in YOUR voice: add ElevenLabs voice cloning. Enter your ElevenLabs API key + Voice ID in KEY. Cloned voice for short lines, phone voice for long answers, auto-fallback when offline/out of credits."
+  "versionCode": 27,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.26/Ivan.apk",
+  "notes": "Noise cancellation: the always-on mic now runs through the phone voice DSP (noise suppressor + echo canceller + auto-gain) so Ivan hears mostly just your voice. Plus your-voice cloning from v1.25."
 }
