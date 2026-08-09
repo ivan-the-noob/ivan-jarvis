@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.24/Ivan.apk",
-  "notes": "Reverted: continuous mic uses the accurate engine again so it actually hears you. Red theme, pop-up message, bluetooth toggle, macros."
+  "versionCode": 26,
+  "versionName": "1.25",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.25/Ivan.apk",
+  "notes": "Speak in YOUR voice: add ElevenLabs voice cloning. Enter your ElevenLabs API key + Voice ID in KEY. Cloned voice for short lines, phone voice for long answers, auto-fallback when offline/out of credits."
 }
