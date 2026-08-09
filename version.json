@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.21/Ivan.apk",
-  "notes": "'Hi Ivan' now opens the app. Reactor animation upgraded (energy sweep, pulse waves, more rings). More human voice (picks best neural/network voice). Bluetooth toggle, macros, continuous mic."
+  "versionCode": 23,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.22/Ivan.apk",
+  "notes": "RED theme. Pop-up message animation inside the circle. Hi Ivan opens the app. Upgraded reactor, human voice, bluetooth toggle, macros, continuous mic."
 }
