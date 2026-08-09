@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.28/Ivan.apk",
-  "notes": "Your cloned voice now speaks longer answers too (limit raised to 600 chars). Only very long replies fall back to the phone voice to save credits."
+  "versionCode": 30,
+  "versionName": "1.29",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.29/Ivan.apk",
+  "notes": "Cleaner screen: hint text + buttons hidden. Swipe left to reveal the controls drawer, swipe right to hide. During a conversation the background comes alive with moving circles, then fades back to normal when done."
 }
