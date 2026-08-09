@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.19/Ivan.apk",
-  "notes": "Delete macros in the +MACRO screen. Say 'turn off' to close the assistant. Say 'play my music' to open Spotify and resume. Continuous mic, macros, Taglish, no installer loop."
+  "versionCode": 21,
+  "versionName": "1.20",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.20/Ivan.apk",
+  "notes": "Say 'bluetooth on' / 'bluetooth off' to actually toggle Bluetooth. Plus: delete macros, 'turn off', 'play my music', continuous mic. No installer loop."
 }
