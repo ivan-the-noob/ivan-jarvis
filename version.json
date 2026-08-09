@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.20/Ivan.apk",
-  "notes": "Say 'bluetooth on' / 'bluetooth off' to actually toggle Bluetooth. Plus: delete macros, 'turn off', 'play my music', continuous mic. No installer loop."
+  "versionCode": 22,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.21/Ivan.apk",
+  "notes": "'Hi Ivan' now opens the app. Reactor animation upgraded (energy sweep, pulse waves, more rings). More human voice (picks best neural/network voice). Bluetooth toggle, macros, continuous mic."
 }
