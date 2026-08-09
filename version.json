@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.27/Ivan.apk",
-  "notes": "Answers show in a cool in-app HUD box (no browser) for questions and searches. Lightning crackling on the reactor. Answering voice ~2x louder. Plus voice cloning + noise cancellation."
+  "versionCode": 29,
+  "versionName": "1.28",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.28/Ivan.apk",
+  "notes": "Your cloned voice now speaks longer answers too (limit raised to 600 chars). Only very long replies fall back to the phone voice to save credits."
 }
