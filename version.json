@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.31/Ivan.apk",
-  "notes": "Market Desk now speaks a short version aloud (headline + top 3 coins) while the full ranked coin list stays in the HUD box."
+  "versionCode": 33,
+  "versionName": "1.32",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.32/Ivan.apk",
+  "notes": "New JARVIS look: rotating 3D neural mesh-sphere core with an orange halo, capability nodes (Weather, Market, Music...) around it linked by flowing red data-lines, plus a LISTENING waveform. Red theme."
 }
