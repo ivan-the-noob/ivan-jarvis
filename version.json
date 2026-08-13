@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.32",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.32/Ivan.apk",
-  "notes": "New JARVIS look: rotating 3D neural mesh-sphere core with an orange halo, capability nodes (Weather, Market, Music...) around it linked by flowing red data-lines, plus a LISTENING waveform. Red theme."
+  "versionCode": 34,
+  "versionName": "1.33",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.33/Ivan.apk",
+  "notes": "One-tap MARKET button in the controls: tap it for 3 coins likely to rise + 3 likely to fall, shown in the HUD box (no talking needed). Swipe left to find it."
 }
