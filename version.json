@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
-  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.33/Ivan.apk",
-  "notes": "One-tap MARKET button in the controls: tap it for 3 coins likely to rise + 3 likely to fall, shown in the HUD box (no talking needed). Swipe left to find it."
+  "versionCode": 35,
+  "versionName": "1.34",
+  "apkUrl": "https://github.com/ivan-the-noob/ivan-jarvis/releases/download/v1.34/Ivan.apk",
+  "notes": "Know Me: PROFILE (set your daily schedule, toggle scroll-watching, grant usage access) + BRIEFING button. Say 'what's my day', 'what do you know about me', or 'remember that I...'. Learns interests from FB/TikTok captions only when you turn it ON."
 }
